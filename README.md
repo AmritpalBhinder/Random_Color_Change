@@ -42,4 +42,4 @@ Feel free to **fork** this repository, make changes, and submit a pull request!
 
 Let me know if you want any modifications! 🚀
 
-<video src = "![Screen Recording 2025-03-23 220810](https://github.com/user-attachments/assets/cad99340-1790-4acc-bde5-b555f095fb4d)">
+(https://github.com/user-attachments/assets/cad99340-1790-4acc-bde5-b555f095fb4d)
