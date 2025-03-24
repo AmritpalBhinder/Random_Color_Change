@@ -1,0 +1,42 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.container
+{
+    height: 140px;
+    width: 300px;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    background-color: black;
+    margin-top: 23%;
+    margin-left: 50%;
+    border-radius: 10px;
+}
+.container #btn
+{
+    position: relative; 
+    margin-top: 13%;
+    margin-left: 30%;
+    height: 30px;
+    width: 120px;
+    border-radius: 10px;
+}
+.container #copy_btn
+{
+    position: relative; 
+    margin-top: 3%;
+    margin-left: 80%;
+    height: 30px;
+    width: 50px;
+    border-radius: 10px;
+}
+.container p
+{
+   color: white;
+   margin-left: 40%;
+   border: 2px;
+}
