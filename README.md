@@ -1,6 +1,6 @@
-# Random_Color_Change
+# Random_Color_Change_Background
 
-# 🎨 Random Color Generator  
+# 🎨 Random Color Generator  of Background
 
 This is a simple **Random Color Generator** built using **HTML, CSS, and JavaScript**. The project allows users to change the background color of the webpage randomly with a single click and copy the generated color code to the clipboard.  
 
